@@ -8,3 +8,5 @@ I currently focus on studying data analysis, machine learning and Deep learning.
 Difficult, but interesting! 
 
 You can find my portfolio link in my profile; open to new exciting works! 
+
+Basic Python codes : https://github.com/risa1796/ChungA/wiki/About-Python
